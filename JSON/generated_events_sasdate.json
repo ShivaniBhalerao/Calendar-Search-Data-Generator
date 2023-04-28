@@ -1,0 +1,4306 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "sasdate",
+                "type": "integer"
+            },
+            {
+                "name": "datekey",
+                "type": "string"
+            },
+            {
+                "name": "year",
+                "type": "string"
+            },
+            {
+                "name": "month",
+                "type": "number"
+            },
+            {
+                "name": "day",
+                "type": "number"
+            },
+            {
+                "name": "weekday_num",
+                "type": "number"
+            },
+            {
+                "name": "event",
+                "type": "string"
+            }
+        ],
+        "primaryKey": [
+            "sasdate"
+        ],
+        "pandas_version": "0.20.0"
+    },
+    "data": [
+        {
+            "sasdate": 14610,
+            "datekey": 10100,
+            "year": 2000,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 7.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 14626,
+            "datekey": 11700,
+            "year": 2000,
+            "month": 1.0,
+            "day": 17.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 14654,
+            "datekey": 21400,
+            "year": 2000,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 2.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 14661,
+            "datekey": 22100,
+            "year": 2000,
+            "month": 2.0,
+            "day": 21.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 14723,
+            "datekey": 42300,
+            "year": 2000,
+            "month": 4.0,
+            "day": 23.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 14744,
+            "datekey": 51400,
+            "year": 2000,
+            "month": 5.0,
+            "day": 14.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 14752,
+            "datekey": 52200,
+            "year": 2000,
+            "month": 5.0,
+            "day": 22.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 14759,
+            "datekey": 52900,
+            "year": 2000,
+            "month": 5.0,
+            "day": 29.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 14779,
+            "datekey": 61800,
+            "year": 2000,
+            "month": 6.0,
+            "day": 18.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 14792,
+            "datekey": 70100,
+            "year": 2000,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 7.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 14795,
+            "datekey": 70400,
+            "year": 2000,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 3.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 14857,
+            "datekey": 90400,
+            "year": 2000,
+            "month": 9.0,
+            "day": 4.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 14892,
+            "datekey": 100900,
+            "year": 2000,
+            "month": 10.0,
+            "day": 9.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 14914,
+            "datekey": 103100,
+            "year": 2000,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 3.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 14924,
+            "datekey": 111000,
+            "year": 2000,
+            "month": 11.0,
+            "day": 10.0,
+            "weekday_num": 6.0,
+            "event": "['veteransusg']"
+        },
+        {
+            "sasdate": 14925,
+            "datekey": 111100,
+            "year": 2000,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 7.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 14937,
+            "datekey": 112300,
+            "year": 2000,
+            "month": 11.0,
+            "day": 23.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 14969,
+            "datekey": 122500,
+            "year": 2000,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 2.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 14970,
+            "datekey": 122600,
+            "year": 2000,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 3.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 14976,
+            "datekey": 10101,
+            "year": 2001,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 2.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 14990,
+            "datekey": 11501,
+            "year": 2001,
+            "month": 1.0,
+            "day": 15.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 15020,
+            "datekey": 21401,
+            "year": 2001,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 4.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 15025,
+            "datekey": 21901,
+            "year": 2001,
+            "month": 2.0,
+            "day": 19.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 15080,
+            "datekey": 41501,
+            "year": 2001,
+            "month": 4.0,
+            "day": 15.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 15108,
+            "datekey": 51301,
+            "year": 2001,
+            "month": 5.0,
+            "day": 13.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 15116,
+            "datekey": 52101,
+            "year": 2001,
+            "month": 5.0,
+            "day": 21.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 15123,
+            "datekey": 52801,
+            "year": 2001,
+            "month": 5.0,
+            "day": 28.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 15143,
+            "datekey": 61701,
+            "year": 2001,
+            "month": 6.0,
+            "day": 17.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 15157,
+            "datekey": 70101,
+            "year": 2001,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 1.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 15158,
+            "datekey": 70201,
+            "year": 2001,
+            "month": 7.0,
+            "day": 2.0,
+            "weekday_num": 2.0,
+            "event": "['canadaobserved']"
+        },
+        {
+            "sasdate": 15160,
+            "datekey": 70401,
+            "year": 2001,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 4.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 15221,
+            "datekey": 90301,
+            "year": 2001,
+            "month": 9.0,
+            "day": 3.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 15256,
+            "datekey": 100801,
+            "year": 2001,
+            "month": 10.0,
+            "day": 8.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 15279,
+            "datekey": 103101,
+            "year": 2001,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 4.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 15290,
+            "datekey": 111101,
+            "year": 2001,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 1.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 15291,
+            "datekey": 111201,
+            "year": 2001,
+            "month": 11.0,
+            "day": 12.0,
+            "weekday_num": 2.0,
+            "event": "['veteransusg']"
+        },
+        {
+            "sasdate": 15301,
+            "datekey": 112201,
+            "year": 2001,
+            "month": 11.0,
+            "day": 22.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 15334,
+            "datekey": 122501,
+            "year": 2001,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 3.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 15335,
+            "datekey": 122601,
+            "year": 2001,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 4.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 15341,
+            "datekey": 10102,
+            "year": 2002,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 3.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 15361,
+            "datekey": 12102,
+            "year": 2002,
+            "month": 1.0,
+            "day": 21.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 15385,
+            "datekey": 21402,
+            "year": 2002,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 5.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 15389,
+            "datekey": 21802,
+            "year": 2002,
+            "month": 2.0,
+            "day": 18.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 15430,
+            "datekey": 33102,
+            "year": 2002,
+            "month": 3.0,
+            "day": 31.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 15472,
+            "datekey": 51202,
+            "year": 2002,
+            "month": 5.0,
+            "day": 12.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 15480,
+            "datekey": 52002,
+            "year": 2002,
+            "month": 5.0,
+            "day": 20.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 15487,
+            "datekey": 52702,
+            "year": 2002,
+            "month": 5.0,
+            "day": 27.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 15507,
+            "datekey": 61602,
+            "year": 2002,
+            "month": 6.0,
+            "day": 16.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 15522,
+            "datekey": 70102,
+            "year": 2002,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 2.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 15525,
+            "datekey": 70402,
+            "year": 2002,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 5.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 15585,
+            "datekey": 90202,
+            "year": 2002,
+            "month": 9.0,
+            "day": 2.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 15627,
+            "datekey": 101402,
+            "year": 2002,
+            "month": 10.0,
+            "day": 14.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 15644,
+            "datekey": 103102,
+            "year": 2002,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 5.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 15655,
+            "datekey": 111102,
+            "year": 2002,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 2.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 15672,
+            "datekey": 112802,
+            "year": 2002,
+            "month": 11.0,
+            "day": 28.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 15699,
+            "datekey": 122502,
+            "year": 2002,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 4.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 15700,
+            "datekey": 122602,
+            "year": 2002,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 5.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 15706,
+            "datekey": 10103,
+            "year": 2003,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 4.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 15725,
+            "datekey": 12003,
+            "year": 2003,
+            "month": 1.0,
+            "day": 20.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 15750,
+            "datekey": 21403,
+            "year": 2003,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 6.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 15753,
+            "datekey": 21703,
+            "year": 2003,
+            "month": 2.0,
+            "day": 17.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 15815,
+            "datekey": 42003,
+            "year": 2003,
+            "month": 4.0,
+            "day": 20.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 15836,
+            "datekey": 51103,
+            "year": 2003,
+            "month": 5.0,
+            "day": 11.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 15844,
+            "datekey": 51903,
+            "year": 2003,
+            "month": 5.0,
+            "day": 19.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 15851,
+            "datekey": 52603,
+            "year": 2003,
+            "month": 5.0,
+            "day": 26.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 15871,
+            "datekey": 61503,
+            "year": 2003,
+            "month": 6.0,
+            "day": 15.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 15887,
+            "datekey": 70103,
+            "year": 2003,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 3.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 15890,
+            "datekey": 70403,
+            "year": 2003,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 6.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 15949,
+            "datekey": 90103,
+            "year": 2003,
+            "month": 9.0,
+            "day": 1.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 15991,
+            "datekey": 101303,
+            "year": 2003,
+            "month": 10.0,
+            "day": 13.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 16009,
+            "datekey": 103103,
+            "year": 2003,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 6.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 16020,
+            "datekey": 111103,
+            "year": 2003,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 3.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 16036,
+            "datekey": 112703,
+            "year": 2003,
+            "month": 11.0,
+            "day": 27.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 16064,
+            "datekey": 122503,
+            "year": 2003,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 5.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 16065,
+            "datekey": 122603,
+            "year": 2003,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 6.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 16071,
+            "datekey": 10104,
+            "year": 2004,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 5.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 16089,
+            "datekey": 11904,
+            "year": 2004,
+            "month": 1.0,
+            "day": 19.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 16115,
+            "datekey": 21404,
+            "year": 2004,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 7.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 16117,
+            "datekey": 21604,
+            "year": 2004,
+            "month": 2.0,
+            "day": 16.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 16172,
+            "datekey": 41104,
+            "year": 2004,
+            "month": 4.0,
+            "day": 11.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 16200,
+            "datekey": 50904,
+            "year": 2004,
+            "month": 5.0,
+            "day": 9.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 16215,
+            "datekey": 52404,
+            "year": 2004,
+            "month": 5.0,
+            "day": 24.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 16222,
+            "datekey": 53104,
+            "year": 2004,
+            "month": 5.0,
+            "day": 31.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 16242,
+            "datekey": 62004,
+            "year": 2004,
+            "month": 6.0,
+            "day": 20.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 16253,
+            "datekey": 70104,
+            "year": 2004,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 5.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 16256,
+            "datekey": 70404,
+            "year": 2004,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 1.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 16320,
+            "datekey": 90604,
+            "year": 2004,
+            "month": 9.0,
+            "day": 6.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 16355,
+            "datekey": 101104,
+            "year": 2004,
+            "month": 10.0,
+            "day": 11.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 16375,
+            "datekey": 103104,
+            "year": 2004,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 1.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 16386,
+            "datekey": 111104,
+            "year": 2004,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 5.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 16400,
+            "datekey": 112504,
+            "year": 2004,
+            "month": 11.0,
+            "day": 25.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 16430,
+            "datekey": 122504,
+            "year": 2004,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 7.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 16431,
+            "datekey": 122604,
+            "year": 2004,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 1.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 16437,
+            "datekey": 10105,
+            "year": 2005,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 7.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 16453,
+            "datekey": 11705,
+            "year": 2005,
+            "month": 1.0,
+            "day": 17.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 16481,
+            "datekey": 21405,
+            "year": 2005,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 2.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 16488,
+            "datekey": 22105,
+            "year": 2005,
+            "month": 2.0,
+            "day": 21.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 16522,
+            "datekey": 32705,
+            "year": 2005,
+            "month": 3.0,
+            "day": 27.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 16564,
+            "datekey": 50805,
+            "year": 2005,
+            "month": 5.0,
+            "day": 8.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 16579,
+            "datekey": 52305,
+            "year": 2005,
+            "month": 5.0,
+            "day": 23.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 16586,
+            "datekey": 53005,
+            "year": 2005,
+            "month": 5.0,
+            "day": 30.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 16606,
+            "datekey": 61905,
+            "year": 2005,
+            "month": 6.0,
+            "day": 19.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 16618,
+            "datekey": 70105,
+            "year": 2005,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 6.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 16621,
+            "datekey": 70405,
+            "year": 2005,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 2.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 16684,
+            "datekey": 90505,
+            "year": 2005,
+            "month": 9.0,
+            "day": 5.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 16719,
+            "datekey": 101005,
+            "year": 2005,
+            "month": 10.0,
+            "day": 10.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 16740,
+            "datekey": 103105,
+            "year": 2005,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 2.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 16751,
+            "datekey": 111105,
+            "year": 2005,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 6.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 16764,
+            "datekey": 112405,
+            "year": 2005,
+            "month": 11.0,
+            "day": 24.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 16795,
+            "datekey": 122505,
+            "year": 2005,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 1.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 16796,
+            "datekey": 122605,
+            "year": 2005,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 2.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 16802,
+            "datekey": 10106,
+            "year": 2006,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 1.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 16817,
+            "datekey": 11606,
+            "year": 2006,
+            "month": 1.0,
+            "day": 16.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 16846,
+            "datekey": 21406,
+            "year": 2006,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 3.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 16852,
+            "datekey": 22006,
+            "year": 2006,
+            "month": 2.0,
+            "day": 20.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 16907,
+            "datekey": 41606,
+            "year": 2006,
+            "month": 4.0,
+            "day": 16.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 16935,
+            "datekey": 51406,
+            "year": 2006,
+            "month": 5.0,
+            "day": 14.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 16943,
+            "datekey": 52206,
+            "year": 2006,
+            "month": 5.0,
+            "day": 22.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 16950,
+            "datekey": 52906,
+            "year": 2006,
+            "month": 5.0,
+            "day": 29.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 16970,
+            "datekey": 61806,
+            "year": 2006,
+            "month": 6.0,
+            "day": 18.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 16983,
+            "datekey": 70106,
+            "year": 2006,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 7.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 16986,
+            "datekey": 70406,
+            "year": 2006,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 3.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 17048,
+            "datekey": 90406,
+            "year": 2006,
+            "month": 9.0,
+            "day": 4.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 17083,
+            "datekey": 100906,
+            "year": 2006,
+            "month": 10.0,
+            "day": 9.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 17105,
+            "datekey": 103106,
+            "year": 2006,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 3.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 17115,
+            "datekey": 111006,
+            "year": 2006,
+            "month": 11.0,
+            "day": 10.0,
+            "weekday_num": 6.0,
+            "event": "['veteransusg']"
+        },
+        {
+            "sasdate": 17116,
+            "datekey": 111106,
+            "year": 2006,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 7.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 17128,
+            "datekey": 112306,
+            "year": 2006,
+            "month": 11.0,
+            "day": 23.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 17160,
+            "datekey": 122506,
+            "year": 2006,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 2.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 17161,
+            "datekey": 122606,
+            "year": 2006,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 3.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 17167,
+            "datekey": 10107,
+            "year": 2007,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 2.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 17181,
+            "datekey": 11507,
+            "year": 2007,
+            "month": 1.0,
+            "day": 15.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 17211,
+            "datekey": 21407,
+            "year": 2007,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 4.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 17216,
+            "datekey": 21907,
+            "year": 2007,
+            "month": 2.0,
+            "day": 19.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 17264,
+            "datekey": 40807,
+            "year": 2007,
+            "month": 4.0,
+            "day": 8.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 17299,
+            "datekey": 51307,
+            "year": 2007,
+            "month": 5.0,
+            "day": 13.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 17307,
+            "datekey": 52107,
+            "year": 2007,
+            "month": 5.0,
+            "day": 21.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 17314,
+            "datekey": 52807,
+            "year": 2007,
+            "month": 5.0,
+            "day": 28.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 17334,
+            "datekey": 61707,
+            "year": 2007,
+            "month": 6.0,
+            "day": 17.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 17348,
+            "datekey": 70107,
+            "year": 2007,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 1.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 17349,
+            "datekey": 70207,
+            "year": 2007,
+            "month": 7.0,
+            "day": 2.0,
+            "weekday_num": 2.0,
+            "event": "['canadaobserved']"
+        },
+        {
+            "sasdate": 17351,
+            "datekey": 70407,
+            "year": 2007,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 4.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 17412,
+            "datekey": 90307,
+            "year": 2007,
+            "month": 9.0,
+            "day": 3.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 17447,
+            "datekey": 100807,
+            "year": 2007,
+            "month": 10.0,
+            "day": 8.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 17470,
+            "datekey": 103107,
+            "year": 2007,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 4.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 17481,
+            "datekey": 111107,
+            "year": 2007,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 1.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 17482,
+            "datekey": 111207,
+            "year": 2007,
+            "month": 11.0,
+            "day": 12.0,
+            "weekday_num": 2.0,
+            "event": "['veteransusg']"
+        },
+        {
+            "sasdate": 17492,
+            "datekey": 112207,
+            "year": 2007,
+            "month": 11.0,
+            "day": 22.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 17525,
+            "datekey": 122507,
+            "year": 2007,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 3.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 17526,
+            "datekey": 122607,
+            "year": 2007,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 4.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 17532,
+            "datekey": 10108,
+            "year": 2008,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 3.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 17552,
+            "datekey": 12108,
+            "year": 2008,
+            "month": 1.0,
+            "day": 21.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 17576,
+            "datekey": 21408,
+            "year": 2008,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 5.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 17580,
+            "datekey": 21808,
+            "year": 2008,
+            "month": 2.0,
+            "day": 18.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 17614,
+            "datekey": 32308,
+            "year": 2008,
+            "month": 3.0,
+            "day": 23.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 17663,
+            "datekey": 51108,
+            "year": 2008,
+            "month": 5.0,
+            "day": 11.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 17671,
+            "datekey": 51908,
+            "year": 2008,
+            "month": 5.0,
+            "day": 19.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 17678,
+            "datekey": 52608,
+            "year": 2008,
+            "month": 5.0,
+            "day": 26.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 17698,
+            "datekey": 61508,
+            "year": 2008,
+            "month": 6.0,
+            "day": 15.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 17714,
+            "datekey": 70108,
+            "year": 2008,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 3.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 17717,
+            "datekey": 70408,
+            "year": 2008,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 6.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 17776,
+            "datekey": 90108,
+            "year": 2008,
+            "month": 9.0,
+            "day": 1.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 17818,
+            "datekey": 101308,
+            "year": 2008,
+            "month": 10.0,
+            "day": 13.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 17836,
+            "datekey": 103108,
+            "year": 2008,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 6.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 17847,
+            "datekey": 111108,
+            "year": 2008,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 3.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 17863,
+            "datekey": 112708,
+            "year": 2008,
+            "month": 11.0,
+            "day": 27.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 17891,
+            "datekey": 122508,
+            "year": 2008,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 5.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 17892,
+            "datekey": 122608,
+            "year": 2008,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 6.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 17898,
+            "datekey": 10109,
+            "year": 2009,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 5.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 17916,
+            "datekey": 11909,
+            "year": 2009,
+            "month": 1.0,
+            "day": 19.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 17942,
+            "datekey": 21409,
+            "year": 2009,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 7.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 17944,
+            "datekey": 21609,
+            "year": 2009,
+            "month": 2.0,
+            "day": 16.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 17999,
+            "datekey": 41209,
+            "year": 2009,
+            "month": 4.0,
+            "day": 12.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 18027,
+            "datekey": 51009,
+            "year": 2009,
+            "month": 5.0,
+            "day": 10.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 18035,
+            "datekey": 51809,
+            "year": 2009,
+            "month": 5.0,
+            "day": 18.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 18042,
+            "datekey": 52509,
+            "year": 2009,
+            "month": 5.0,
+            "day": 25.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 18069,
+            "datekey": 62109,
+            "year": 2009,
+            "month": 6.0,
+            "day": 21.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 18079,
+            "datekey": 70109,
+            "year": 2009,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 4.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 18082,
+            "datekey": 70409,
+            "year": 2009,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 7.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 18147,
+            "datekey": 90709,
+            "year": 2009,
+            "month": 9.0,
+            "day": 7.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 18182,
+            "datekey": 101209,
+            "year": 2009,
+            "month": 10.0,
+            "day": 12.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 18201,
+            "datekey": 103109,
+            "year": 2009,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 7.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 18212,
+            "datekey": 111109,
+            "year": 2009,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 4.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 18227,
+            "datekey": 112609,
+            "year": 2009,
+            "month": 11.0,
+            "day": 26.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 18256,
+            "datekey": 122509,
+            "year": 2009,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 6.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 18257,
+            "datekey": 122609,
+            "year": 2009,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 7.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 18263,
+            "datekey": 10110,
+            "year": 2010,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 6.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 18280,
+            "datekey": 11810,
+            "year": 2010,
+            "month": 1.0,
+            "day": 18.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 18307,
+            "datekey": 21410,
+            "year": 2010,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 1.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 18308,
+            "datekey": 21510,
+            "year": 2010,
+            "month": 2.0,
+            "day": 15.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 18356,
+            "datekey": 40410,
+            "year": 2010,
+            "month": 4.0,
+            "day": 4.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 18391,
+            "datekey": 50910,
+            "year": 2010,
+            "month": 5.0,
+            "day": 9.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 18406,
+            "datekey": 52410,
+            "year": 2010,
+            "month": 5.0,
+            "day": 24.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 18413,
+            "datekey": 53110,
+            "year": 2010,
+            "month": 5.0,
+            "day": 31.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 18433,
+            "datekey": 62010,
+            "year": 2010,
+            "month": 6.0,
+            "day": 20.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 18444,
+            "datekey": 70110,
+            "year": 2010,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 5.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 18447,
+            "datekey": 70410,
+            "year": 2010,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 1.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 18511,
+            "datekey": 90610,
+            "year": 2010,
+            "month": 9.0,
+            "day": 6.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 18546,
+            "datekey": 101110,
+            "year": 2010,
+            "month": 10.0,
+            "day": 11.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 18566,
+            "datekey": 103110,
+            "year": 2010,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 1.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 18577,
+            "datekey": 111110,
+            "year": 2010,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 5.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 18591,
+            "datekey": 112510,
+            "year": 2010,
+            "month": 11.0,
+            "day": 25.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 18621,
+            "datekey": 122510,
+            "year": 2010,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 7.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 18622,
+            "datekey": 122610,
+            "year": 2010,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 1.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 18628,
+            "datekey": 10111,
+            "year": 2011,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 7.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 18644,
+            "datekey": 11711,
+            "year": 2011,
+            "month": 1.0,
+            "day": 17.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 18672,
+            "datekey": 21411,
+            "year": 2011,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 2.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 18679,
+            "datekey": 22111,
+            "year": 2011,
+            "month": 2.0,
+            "day": 21.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 18741,
+            "datekey": 42411,
+            "year": 2011,
+            "month": 4.0,
+            "day": 24.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 18755,
+            "datekey": 50811,
+            "year": 2011,
+            "month": 5.0,
+            "day": 8.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 18770,
+            "datekey": 52311,
+            "year": 2011,
+            "month": 5.0,
+            "day": 23.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 18777,
+            "datekey": 53011,
+            "year": 2011,
+            "month": 5.0,
+            "day": 30.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 18797,
+            "datekey": 61911,
+            "year": 2011,
+            "month": 6.0,
+            "day": 19.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 18809,
+            "datekey": 70111,
+            "year": 2011,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 6.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 18812,
+            "datekey": 70411,
+            "year": 2011,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 2.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 18875,
+            "datekey": 90511,
+            "year": 2011,
+            "month": 9.0,
+            "day": 5.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 18910,
+            "datekey": 101011,
+            "year": 2011,
+            "month": 10.0,
+            "day": 10.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 18931,
+            "datekey": 103111,
+            "year": 2011,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 2.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 18942,
+            "datekey": 111111,
+            "year": 2011,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 6.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 18955,
+            "datekey": 112411,
+            "year": 2011,
+            "month": 11.0,
+            "day": 24.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 18986,
+            "datekey": 122511,
+            "year": 2011,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 1.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 18987,
+            "datekey": 122611,
+            "year": 2011,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 2.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 18993,
+            "datekey": 10112,
+            "year": 2012,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 1.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 19008,
+            "datekey": 11612,
+            "year": 2012,
+            "month": 1.0,
+            "day": 16.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 19037,
+            "datekey": 21412,
+            "year": 2012,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 3.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 19043,
+            "datekey": 22012,
+            "year": 2012,
+            "month": 2.0,
+            "day": 20.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 19091,
+            "datekey": 40812,
+            "year": 2012,
+            "month": 4.0,
+            "day": 8.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 19126,
+            "datekey": 51312,
+            "year": 2012,
+            "month": 5.0,
+            "day": 13.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 19134,
+            "datekey": 52112,
+            "year": 2012,
+            "month": 5.0,
+            "day": 21.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 19141,
+            "datekey": 52812,
+            "year": 2012,
+            "month": 5.0,
+            "day": 28.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 19161,
+            "datekey": 61712,
+            "year": 2012,
+            "month": 6.0,
+            "day": 17.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 19175,
+            "datekey": 70112,
+            "year": 2012,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 1.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 19176,
+            "datekey": 70212,
+            "year": 2012,
+            "month": 7.0,
+            "day": 2.0,
+            "weekday_num": 2.0,
+            "event": "['canadaobserved']"
+        },
+        {
+            "sasdate": 19178,
+            "datekey": 70412,
+            "year": 2012,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 4.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 19239,
+            "datekey": 90312,
+            "year": 2012,
+            "month": 9.0,
+            "day": 3.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 19274,
+            "datekey": 100812,
+            "year": 2012,
+            "month": 10.0,
+            "day": 8.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 19297,
+            "datekey": 103112,
+            "year": 2012,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 4.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 19308,
+            "datekey": 111112,
+            "year": 2012,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 1.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 19309,
+            "datekey": 111212,
+            "year": 2012,
+            "month": 11.0,
+            "day": 12.0,
+            "weekday_num": 2.0,
+            "event": "['veteransusg']"
+        },
+        {
+            "sasdate": 19319,
+            "datekey": 112212,
+            "year": 2012,
+            "month": 11.0,
+            "day": 22.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 19352,
+            "datekey": 122512,
+            "year": 2012,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 3.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 19353,
+            "datekey": 122612,
+            "year": 2012,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 4.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 19359,
+            "datekey": 10113,
+            "year": 2013,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 3.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 19379,
+            "datekey": 12113,
+            "year": 2013,
+            "month": 1.0,
+            "day": 21.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 19403,
+            "datekey": 21413,
+            "year": 2013,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 5.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 19407,
+            "datekey": 21813,
+            "year": 2013,
+            "month": 2.0,
+            "day": 18.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 19448,
+            "datekey": 33113,
+            "year": 2013,
+            "month": 3.0,
+            "day": 31.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 19490,
+            "datekey": 51213,
+            "year": 2013,
+            "month": 5.0,
+            "day": 12.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 19498,
+            "datekey": 52013,
+            "year": 2013,
+            "month": 5.0,
+            "day": 20.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 19505,
+            "datekey": 52713,
+            "year": 2013,
+            "month": 5.0,
+            "day": 27.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 19525,
+            "datekey": 61613,
+            "year": 2013,
+            "month": 6.0,
+            "day": 16.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 19540,
+            "datekey": 70113,
+            "year": 2013,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 2.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 19543,
+            "datekey": 70413,
+            "year": 2013,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 5.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 19603,
+            "datekey": 90213,
+            "year": 2013,
+            "month": 9.0,
+            "day": 2.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 19645,
+            "datekey": 101413,
+            "year": 2013,
+            "month": 10.0,
+            "day": 14.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 19662,
+            "datekey": 103113,
+            "year": 2013,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 5.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 19673,
+            "datekey": 111113,
+            "year": 2013,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 2.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 19690,
+            "datekey": 112813,
+            "year": 2013,
+            "month": 11.0,
+            "day": 28.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 19717,
+            "datekey": 122513,
+            "year": 2013,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 4.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 19718,
+            "datekey": 122613,
+            "year": 2013,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 5.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 19724,
+            "datekey": 10114,
+            "year": 2014,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 4.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 19743,
+            "datekey": 12014,
+            "year": 2014,
+            "month": 1.0,
+            "day": 20.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 19768,
+            "datekey": 21414,
+            "year": 2014,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 6.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 19771,
+            "datekey": 21714,
+            "year": 2014,
+            "month": 2.0,
+            "day": 17.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 19833,
+            "datekey": 42014,
+            "year": 2014,
+            "month": 4.0,
+            "day": 20.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 19854,
+            "datekey": 51114,
+            "year": 2014,
+            "month": 5.0,
+            "day": 11.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 19862,
+            "datekey": 51914,
+            "year": 2014,
+            "month": 5.0,
+            "day": 19.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 19869,
+            "datekey": 52614,
+            "year": 2014,
+            "month": 5.0,
+            "day": 26.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 19889,
+            "datekey": 61514,
+            "year": 2014,
+            "month": 6.0,
+            "day": 15.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 19905,
+            "datekey": 70114,
+            "year": 2014,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 3.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 19908,
+            "datekey": 70414,
+            "year": 2014,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 6.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 19967,
+            "datekey": 90114,
+            "year": 2014,
+            "month": 9.0,
+            "day": 1.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 20009,
+            "datekey": 101314,
+            "year": 2014,
+            "month": 10.0,
+            "day": 13.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 20027,
+            "datekey": 103114,
+            "year": 2014,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 6.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 20038,
+            "datekey": 111114,
+            "year": 2014,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 3.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 20054,
+            "datekey": 112714,
+            "year": 2014,
+            "month": 11.0,
+            "day": 27.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 20082,
+            "datekey": 122514,
+            "year": 2014,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 5.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 20083,
+            "datekey": 122614,
+            "year": 2014,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 6.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 20089,
+            "datekey": 10115,
+            "year": 2015,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 5.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 20107,
+            "datekey": 11915,
+            "year": 2015,
+            "month": 1.0,
+            "day": 19.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 20133,
+            "datekey": 21415,
+            "year": 2015,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 7.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 20135,
+            "datekey": 21615,
+            "year": 2015,
+            "month": 2.0,
+            "day": 16.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 20183,
+            "datekey": 40515,
+            "year": 2015,
+            "month": 4.0,
+            "day": 5.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 20218,
+            "datekey": 51015,
+            "year": 2015,
+            "month": 5.0,
+            "day": 10.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 20226,
+            "datekey": 51815,
+            "year": 2015,
+            "month": 5.0,
+            "day": 18.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 20233,
+            "datekey": 52515,
+            "year": 2015,
+            "month": 5.0,
+            "day": 25.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 20260,
+            "datekey": 62115,
+            "year": 2015,
+            "month": 6.0,
+            "day": 21.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 20270,
+            "datekey": 70115,
+            "year": 2015,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 4.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 20273,
+            "datekey": 70415,
+            "year": 2015,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 7.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 20338,
+            "datekey": 90715,
+            "year": 2015,
+            "month": 9.0,
+            "day": 7.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 20373,
+            "datekey": 101215,
+            "year": 2015,
+            "month": 10.0,
+            "day": 12.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 20392,
+            "datekey": 103115,
+            "year": 2015,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 7.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 20403,
+            "datekey": 111115,
+            "year": 2015,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 4.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 20418,
+            "datekey": 112615,
+            "year": 2015,
+            "month": 11.0,
+            "day": 26.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 20447,
+            "datekey": 122515,
+            "year": 2015,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 6.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 20448,
+            "datekey": 122615,
+            "year": 2015,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 7.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 20454,
+            "datekey": 10116,
+            "year": 2016,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 6.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 20471,
+            "datekey": 11816,
+            "year": 2016,
+            "month": 1.0,
+            "day": 18.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 20498,
+            "datekey": 21416,
+            "year": 2016,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 1.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 20499,
+            "datekey": 21516,
+            "year": 2016,
+            "month": 2.0,
+            "day": 15.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 20540,
+            "datekey": 32716,
+            "year": 2016,
+            "month": 3.0,
+            "day": 27.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 20582,
+            "datekey": 50816,
+            "year": 2016,
+            "month": 5.0,
+            "day": 8.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 20597,
+            "datekey": 52316,
+            "year": 2016,
+            "month": 5.0,
+            "day": 23.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 20604,
+            "datekey": 53016,
+            "year": 2016,
+            "month": 5.0,
+            "day": 30.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 20624,
+            "datekey": 61916,
+            "year": 2016,
+            "month": 6.0,
+            "day": 19.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 20636,
+            "datekey": 70116,
+            "year": 2016,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 6.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 20639,
+            "datekey": 70416,
+            "year": 2016,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 2.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 20702,
+            "datekey": 90516,
+            "year": 2016,
+            "month": 9.0,
+            "day": 5.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 20737,
+            "datekey": 101016,
+            "year": 2016,
+            "month": 10.0,
+            "day": 10.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 20758,
+            "datekey": 103116,
+            "year": 2016,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 2.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 20769,
+            "datekey": 111116,
+            "year": 2016,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 6.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 20782,
+            "datekey": 112416,
+            "year": 2016,
+            "month": 11.0,
+            "day": 24.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 20813,
+            "datekey": 122516,
+            "year": 2016,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 1.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 20814,
+            "datekey": 122616,
+            "year": 2016,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 2.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 20820,
+            "datekey": 10117,
+            "year": 2017,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 1.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 20835,
+            "datekey": 11617,
+            "year": 2017,
+            "month": 1.0,
+            "day": 16.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 20864,
+            "datekey": 21417,
+            "year": 2017,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 3.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 20870,
+            "datekey": 22017,
+            "year": 2017,
+            "month": 2.0,
+            "day": 20.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 20925,
+            "datekey": 41617,
+            "year": 2017,
+            "month": 4.0,
+            "day": 16.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 20953,
+            "datekey": 51417,
+            "year": 2017,
+            "month": 5.0,
+            "day": 14.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 20961,
+            "datekey": 52217,
+            "year": 2017,
+            "month": 5.0,
+            "day": 22.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 20968,
+            "datekey": 52917,
+            "year": 2017,
+            "month": 5.0,
+            "day": 29.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 20988,
+            "datekey": 61817,
+            "year": 2017,
+            "month": 6.0,
+            "day": 18.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 21001,
+            "datekey": 70117,
+            "year": 2017,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 7.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 21004,
+            "datekey": 70417,
+            "year": 2017,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 3.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 21066,
+            "datekey": 90417,
+            "year": 2017,
+            "month": 9.0,
+            "day": 4.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 21101,
+            "datekey": 100917,
+            "year": 2017,
+            "month": 10.0,
+            "day": 9.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 21123,
+            "datekey": 103117,
+            "year": 2017,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 3.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 21133,
+            "datekey": 111017,
+            "year": 2017,
+            "month": 11.0,
+            "day": 10.0,
+            "weekday_num": 6.0,
+            "event": "['veteransusg']"
+        },
+        {
+            "sasdate": 21134,
+            "datekey": 111117,
+            "year": 2017,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 7.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 21146,
+            "datekey": 112317,
+            "year": 2017,
+            "month": 11.0,
+            "day": 23.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 21178,
+            "datekey": 122517,
+            "year": 2017,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 2.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 21179,
+            "datekey": 122617,
+            "year": 2017,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 3.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 21185,
+            "datekey": 10118,
+            "year": 2018,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 2.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 21199,
+            "datekey": 11518,
+            "year": 2018,
+            "month": 1.0,
+            "day": 15.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 21229,
+            "datekey": 21418,
+            "year": 2018,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 4.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 21234,
+            "datekey": 21918,
+            "year": 2018,
+            "month": 2.0,
+            "day": 19.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 21275,
+            "datekey": 40118,
+            "year": 2018,
+            "month": 4.0,
+            "day": 1.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 21317,
+            "datekey": 51318,
+            "year": 2018,
+            "month": 5.0,
+            "day": 13.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 21325,
+            "datekey": 52118,
+            "year": 2018,
+            "month": 5.0,
+            "day": 21.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 21332,
+            "datekey": 52818,
+            "year": 2018,
+            "month": 5.0,
+            "day": 28.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 21352,
+            "datekey": 61718,
+            "year": 2018,
+            "month": 6.0,
+            "day": 17.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 21366,
+            "datekey": 70118,
+            "year": 2018,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 1.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 21367,
+            "datekey": 70218,
+            "year": 2018,
+            "month": 7.0,
+            "day": 2.0,
+            "weekday_num": 2.0,
+            "event": "['canadaobserved']"
+        },
+        {
+            "sasdate": 21369,
+            "datekey": 70418,
+            "year": 2018,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 4.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 21430,
+            "datekey": 90318,
+            "year": 2018,
+            "month": 9.0,
+            "day": 3.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 21465,
+            "datekey": 100818,
+            "year": 2018,
+            "month": 10.0,
+            "day": 8.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 21488,
+            "datekey": 103118,
+            "year": 2018,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 4.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 21499,
+            "datekey": 111118,
+            "year": 2018,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 1.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 21500,
+            "datekey": 111218,
+            "year": 2018,
+            "month": 11.0,
+            "day": 12.0,
+            "weekday_num": 2.0,
+            "event": "['veteransusg']"
+        },
+        {
+            "sasdate": 21510,
+            "datekey": 112218,
+            "year": 2018,
+            "month": 11.0,
+            "day": 22.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 21543,
+            "datekey": 122518,
+            "year": 2018,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 3.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 21544,
+            "datekey": 122618,
+            "year": 2018,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 4.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 21550,
+            "datekey": 10119,
+            "year": 2019,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 3.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 21570,
+            "datekey": 12119,
+            "year": 2019,
+            "month": 1.0,
+            "day": 21.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 21594,
+            "datekey": 21419,
+            "year": 2019,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 5.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 21598,
+            "datekey": 21819,
+            "year": 2019,
+            "month": 2.0,
+            "day": 18.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 21660,
+            "datekey": 42119,
+            "year": 2019,
+            "month": 4.0,
+            "day": 21.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 21681,
+            "datekey": 51219,
+            "year": 2019,
+            "month": 5.0,
+            "day": 12.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 21689,
+            "datekey": 52019,
+            "year": 2019,
+            "month": 5.0,
+            "day": 20.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 21696,
+            "datekey": 52719,
+            "year": 2019,
+            "month": 5.0,
+            "day": 27.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 21716,
+            "datekey": 61619,
+            "year": 2019,
+            "month": 6.0,
+            "day": 16.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 21731,
+            "datekey": 70119,
+            "year": 2019,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 2.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 21734,
+            "datekey": 70419,
+            "year": 2019,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 5.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 21794,
+            "datekey": 90219,
+            "year": 2019,
+            "month": 9.0,
+            "day": 2.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 21836,
+            "datekey": 101419,
+            "year": 2019,
+            "month": 10.0,
+            "day": 14.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 21853,
+            "datekey": 103119,
+            "year": 2019,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 5.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 21864,
+            "datekey": 111119,
+            "year": 2019,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 2.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 21881,
+            "datekey": 112819,
+            "year": 2019,
+            "month": 11.0,
+            "day": 28.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 21908,
+            "datekey": 122519,
+            "year": 2019,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 4.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 21909,
+            "datekey": 122619,
+            "year": 2019,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 5.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 21915,
+            "datekey": 10120,
+            "year": 2020,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 4.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 21934,
+            "datekey": 12020,
+            "year": 2020,
+            "month": 1.0,
+            "day": 20.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 21959,
+            "datekey": 21420,
+            "year": 2020,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 6.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 21962,
+            "datekey": 21720,
+            "year": 2020,
+            "month": 2.0,
+            "day": 17.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 22017,
+            "datekey": 41220,
+            "year": 2020,
+            "month": 4.0,
+            "day": 12.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 22045,
+            "datekey": 51020,
+            "year": 2020,
+            "month": 5.0,
+            "day": 10.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 22053,
+            "datekey": 51820,
+            "year": 2020,
+            "month": 5.0,
+            "day": 18.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 22060,
+            "datekey": 52520,
+            "year": 2020,
+            "month": 5.0,
+            "day": 25.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 22087,
+            "datekey": 62120,
+            "year": 2020,
+            "month": 6.0,
+            "day": 21.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 22097,
+            "datekey": 70120,
+            "year": 2020,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 4.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 22100,
+            "datekey": 70420,
+            "year": 2020,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 7.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 22165,
+            "datekey": 90720,
+            "year": 2020,
+            "month": 9.0,
+            "day": 7.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 22200,
+            "datekey": 101220,
+            "year": 2020,
+            "month": 10.0,
+            "day": 12.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 22219,
+            "datekey": 103120,
+            "year": 2020,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 7.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 22230,
+            "datekey": 111120,
+            "year": 2020,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 4.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 22245,
+            "datekey": 112620,
+            "year": 2020,
+            "month": 11.0,
+            "day": 26.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 22274,
+            "datekey": 122520,
+            "year": 2020,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 6.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 22275,
+            "datekey": 122620,
+            "year": 2020,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 7.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 22281,
+            "datekey": 10121,
+            "year": 2021,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 6.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 22298,
+            "datekey": 11821,
+            "year": 2021,
+            "month": 1.0,
+            "day": 18.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 22325,
+            "datekey": 21421,
+            "year": 2021,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 1.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 22326,
+            "datekey": 21521,
+            "year": 2021,
+            "month": 2.0,
+            "day": 15.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 22374,
+            "datekey": 40421,
+            "year": 2021,
+            "month": 4.0,
+            "day": 4.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 22409,
+            "datekey": 50921,
+            "year": 2021,
+            "month": 5.0,
+            "day": 9.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 22424,
+            "datekey": 52421,
+            "year": 2021,
+            "month": 5.0,
+            "day": 24.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 22431,
+            "datekey": 53121,
+            "year": 2021,
+            "month": 5.0,
+            "day": 31.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 22451,
+            "datekey": 62021,
+            "year": 2021,
+            "month": 6.0,
+            "day": 20.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 22462,
+            "datekey": 70121,
+            "year": 2021,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 5.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 22465,
+            "datekey": 70421,
+            "year": 2021,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 1.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 22529,
+            "datekey": 90621,
+            "year": 2021,
+            "month": 9.0,
+            "day": 6.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 22564,
+            "datekey": 101121,
+            "year": 2021,
+            "month": 10.0,
+            "day": 11.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 22584,
+            "datekey": 103121,
+            "year": 2021,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 1.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 22595,
+            "datekey": 111121,
+            "year": 2021,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 5.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 22609,
+            "datekey": 112521,
+            "year": 2021,
+            "month": 11.0,
+            "day": 25.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 22639,
+            "datekey": 122521,
+            "year": 2021,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 7.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 22640,
+            "datekey": 122621,
+            "year": 2021,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 1.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 22646,
+            "datekey": 10122,
+            "year": 2022,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 7.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 22662,
+            "datekey": 11722,
+            "year": 2022,
+            "month": 1.0,
+            "day": 17.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 22690,
+            "datekey": 21422,
+            "year": 2022,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 2.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 22697,
+            "datekey": 22122,
+            "year": 2022,
+            "month": 2.0,
+            "day": 21.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 22752,
+            "datekey": 41722,
+            "year": 2022,
+            "month": 4.0,
+            "day": 17.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 22773,
+            "datekey": 50822,
+            "year": 2022,
+            "month": 5.0,
+            "day": 8.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 22788,
+            "datekey": 52322,
+            "year": 2022,
+            "month": 5.0,
+            "day": 23.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 22795,
+            "datekey": 53022,
+            "year": 2022,
+            "month": 5.0,
+            "day": 30.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 22815,
+            "datekey": 61922,
+            "year": 2022,
+            "month": 6.0,
+            "day": 19.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 22827,
+            "datekey": 70122,
+            "year": 2022,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 6.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 22830,
+            "datekey": 70422,
+            "year": 2022,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 2.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 22893,
+            "datekey": 90522,
+            "year": 2022,
+            "month": 9.0,
+            "day": 5.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 22928,
+            "datekey": 101022,
+            "year": 2022,
+            "month": 10.0,
+            "day": 10.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 22949,
+            "datekey": 103122,
+            "year": 2022,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 2.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 22960,
+            "datekey": 111122,
+            "year": 2022,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 6.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 22973,
+            "datekey": 112422,
+            "year": 2022,
+            "month": 11.0,
+            "day": 24.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 23004,
+            "datekey": 122522,
+            "year": 2022,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 1.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 23005,
+            "datekey": 122622,
+            "year": 2022,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 2.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 23011,
+            "datekey": 10123,
+            "year": 2023,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 1.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 23026,
+            "datekey": 11623,
+            "year": 2023,
+            "month": 1.0,
+            "day": 16.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 23055,
+            "datekey": 21423,
+            "year": 2023,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 3.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 23061,
+            "datekey": 22023,
+            "year": 2023,
+            "month": 2.0,
+            "day": 20.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 23109,
+            "datekey": 40923,
+            "year": 2023,
+            "month": 4.0,
+            "day": 9.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 23144,
+            "datekey": 51423,
+            "year": 2023,
+            "month": 5.0,
+            "day": 14.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 23152,
+            "datekey": 52223,
+            "year": 2023,
+            "month": 5.0,
+            "day": 22.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 23159,
+            "datekey": 52923,
+            "year": 2023,
+            "month": 5.0,
+            "day": 29.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 23179,
+            "datekey": 61823,
+            "year": 2023,
+            "month": 6.0,
+            "day": 18.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 23192,
+            "datekey": 70123,
+            "year": 2023,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 7.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 23195,
+            "datekey": 70423,
+            "year": 2023,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 3.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 23257,
+            "datekey": 90423,
+            "year": 2023,
+            "month": 9.0,
+            "day": 4.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 23292,
+            "datekey": 100923,
+            "year": 2023,
+            "month": 10.0,
+            "day": 9.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 23314,
+            "datekey": 103123,
+            "year": 2023,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 3.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 23324,
+            "datekey": 111023,
+            "year": 2023,
+            "month": 11.0,
+            "day": 10.0,
+            "weekday_num": 6.0,
+            "event": "['veteransusg']"
+        },
+        {
+            "sasdate": 23325,
+            "datekey": 111123,
+            "year": 2023,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 7.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 23337,
+            "datekey": 112323,
+            "year": 2023,
+            "month": 11.0,
+            "day": 23.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 23369,
+            "datekey": 122523,
+            "year": 2023,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 2.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 23370,
+            "datekey": 122623,
+            "year": 2023,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 3.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 23376,
+            "datekey": 10124,
+            "year": 2024,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 2.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 23390,
+            "datekey": 11524,
+            "year": 2024,
+            "month": 1.0,
+            "day": 15.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 23420,
+            "datekey": 21424,
+            "year": 2024,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 4.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 23425,
+            "datekey": 21924,
+            "year": 2024,
+            "month": 2.0,
+            "day": 19.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 23466,
+            "datekey": 33124,
+            "year": 2024,
+            "month": 3.0,
+            "day": 31.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 23508,
+            "datekey": 51224,
+            "year": 2024,
+            "month": 5.0,
+            "day": 12.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 23516,
+            "datekey": 52024,
+            "year": 2024,
+            "month": 5.0,
+            "day": 20.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 23523,
+            "datekey": 52724,
+            "year": 2024,
+            "month": 5.0,
+            "day": 27.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 23543,
+            "datekey": 61624,
+            "year": 2024,
+            "month": 6.0,
+            "day": 16.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 23558,
+            "datekey": 70124,
+            "year": 2024,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 2.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 23561,
+            "datekey": 70424,
+            "year": 2024,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 5.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 23621,
+            "datekey": 90224,
+            "year": 2024,
+            "month": 9.0,
+            "day": 2.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        },
+        {
+            "sasdate": 23663,
+            "datekey": 101424,
+            "year": 2024,
+            "month": 10.0,
+            "day": 14.0,
+            "weekday_num": 2.0,
+            "event": "['thanksgivingcanada']"
+        },
+        {
+            "sasdate": 23680,
+            "datekey": 103124,
+            "year": 2024,
+            "month": 10.0,
+            "day": 31.0,
+            "weekday_num": 5.0,
+            "event": "['halloween']"
+        },
+        {
+            "sasdate": 23691,
+            "datekey": 111124,
+            "year": 2024,
+            "month": 11.0,
+            "day": 11.0,
+            "weekday_num": 2.0,
+            "event": "['veterans']"
+        },
+        {
+            "sasdate": 23708,
+            "datekey": 112824,
+            "year": 2024,
+            "month": 11.0,
+            "day": 28.0,
+            "weekday_num": 5.0,
+            "event": "['thanksgiving']"
+        },
+        {
+            "sasdate": 23735,
+            "datekey": 122524,
+            "year": 2024,
+            "month": 12.0,
+            "day": 25.0,
+            "weekday_num": 4.0,
+            "event": "['christmas']"
+        },
+        {
+            "sasdate": 23736,
+            "datekey": 122624,
+            "year": 2024,
+            "month": 12.0,
+            "day": 26.0,
+            "weekday_num": 5.0,
+            "event": "['boxing']"
+        },
+        {
+            "sasdate": 23742,
+            "datekey": 10125,
+            "year": 2025,
+            "month": 1.0,
+            "day": 1.0,
+            "weekday_num": 4.0,
+            "event": "['newyear']"
+        },
+        {
+            "sasdate": 23761,
+            "datekey": 12025,
+            "year": 2025,
+            "month": 1.0,
+            "day": 20.0,
+            "weekday_num": 2.0,
+            "event": "['mlk']"
+        },
+        {
+            "sasdate": 23786,
+            "datekey": 21425,
+            "year": 2025,
+            "month": 2.0,
+            "day": 14.0,
+            "weekday_num": 6.0,
+            "event": "['valentines']"
+        },
+        {
+            "sasdate": 23789,
+            "datekey": 21725,
+            "year": 2025,
+            "month": 2.0,
+            "day": 17.0,
+            "weekday_num": 2.0,
+            "event": "['uspresidents']"
+        },
+        {
+            "sasdate": 23851,
+            "datekey": 42025,
+            "year": 2025,
+            "month": 4.0,
+            "day": 20.0,
+            "weekday_num": 1.0,
+            "event": "['easter']"
+        },
+        {
+            "sasdate": 23872,
+            "datekey": 51125,
+            "year": 2025,
+            "month": 5.0,
+            "day": 11.0,
+            "weekday_num": 1.0,
+            "event": "['mothers']"
+        },
+        {
+            "sasdate": 23880,
+            "datekey": 51925,
+            "year": 2025,
+            "month": 5.0,
+            "day": 19.0,
+            "weekday_num": 2.0,
+            "event": "['victoria']"
+        },
+        {
+            "sasdate": 23887,
+            "datekey": 52625,
+            "year": 2025,
+            "month": 5.0,
+            "day": 26.0,
+            "weekday_num": 2.0,
+            "event": "['memorial']"
+        },
+        {
+            "sasdate": 23907,
+            "datekey": 61525,
+            "year": 2025,
+            "month": 6.0,
+            "day": 15.0,
+            "weekday_num": 1.0,
+            "event": "['fathers']"
+        },
+        {
+            "sasdate": 23923,
+            "datekey": 70125,
+            "year": 2025,
+            "month": 7.0,
+            "day": 1.0,
+            "weekday_num": 3.0,
+            "event": "['canada']"
+        },
+        {
+            "sasdate": 23926,
+            "datekey": 70425,
+            "year": 2025,
+            "month": 7.0,
+            "day": 4.0,
+            "weekday_num": 6.0,
+            "event": "['usindependence']"
+        },
+        {
+            "sasdate": 23985,
+            "datekey": 90125,
+            "year": 2025,
+            "month": 9.0,
+            "day": 1.0,
+            "weekday_num": 2.0,
+            "event": "['labor']"
+        }
+    ]
+}
